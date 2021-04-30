@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="center">👋 我是HanXinzi，欢迎来到我的github！</h2>
+<p align="center">
+  <a href="https://hanxinzi-ai.github.io/">博客</a> •
+  <a href="https://http://show-me-ai.com/">网站</a>
+</p>
 
+
+- 🔭 10年数据挖掘与算法老🐶，历任**百度，阿里，美团点评 算法专家**
+- 🌱 热衷于**知识分享与传播**
+- 💬 熟悉**Python，Java，机器学习，自然语言处理，推荐算法，计算广告**
 <!--
-**HanXinzi-AI/Hanxinzi-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 微博：[@韩信子AI](https://weibo.com/u/7516559193)
+- 知乎：[韩信子](http://www.zhihu.com/people/han-xin-zi-94)
 -->
+
+<p align="center"> <img src="https://gpvc.arturio.dev/HanXinzi-AI" alt="profile-views"> </p>
