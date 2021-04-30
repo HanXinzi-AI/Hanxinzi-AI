@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 10年数据挖掘与算法老🐶，历任**百度，阿里，美团点评 算法专家**
+- 🔭 10年数据挖掘与算法研发老🐶，历任**百度，阿里，美团点评 算法专家**
 - 🌱 热衷于**知识分享与传播**
 - 💬 熟悉**Python，Java，机器学习，自然语言处理，推荐算法，计算广告**
 <!--
@@ -13,4 +13,4 @@
 - 知乎：[韩信子](http://www.zhihu.com/people/han-xin-zi-94)
 -->
 
-<p align="center"> <img src="https://gpvc.arturio.dev/HanXinzi-AI" alt="profile-views"> </p>
+<p align="center"> <img src="https://gpvc.arturio.dev/HanXinzi-AI" alt="访客量"> </p>
