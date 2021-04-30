@@ -12,5 +12,8 @@
 - 📫 微博：[@韩信子AI](https://weibo.com/u/7516559193)
 - 知乎：[韩信子](http://www.zhihu.com/people/han-xin-zi-94)
 -->
+📊 **本周github主要开发时间**
 
-<p align="center"> <img src="https://gpvc.arturio.dev/HanXinzi-AI" alt="访客量"> </p>
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=HanXinzi-AI&hide_title=true&hide_border=true&langs_count=5)
+
+<p align="center"> <img src="https://gpvc.arturio.dev/HanXinzi-AI" alt="visitors"> </p>
