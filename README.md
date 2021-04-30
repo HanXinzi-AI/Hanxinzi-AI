@@ -14,6 +14,6 @@
 -->
 📊 **本周github主要开发时间**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=HanXinzi-AI&hide_title=true&hide_border=true&langs_count=5)
+[![HanXinzi-AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanXinzi-AI)](https://github.com/HanXinzi-AI)
 
 <p align="center"> <img src="https://gpvc.arturio.dev/HanXinzi-AI" alt="visitors"> </p>
