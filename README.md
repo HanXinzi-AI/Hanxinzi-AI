@@ -14,6 +14,6 @@
 -->
 📊 **本周github主要开发时间**
 
-[![HanXinzi-AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanXinzi-AI)](https://github.com/HanXinzi-AI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanXinzi-AI)](https://github.com/HanXinzi-AI)
 
 <p align="center"> <img src="https://gpvc.arturio.dev/HanXinzi-AI" alt="visitors"> </p>
